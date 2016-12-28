@@ -1,0 +1,3 @@
+framework module MobileCapture2SDK {
+    header "MobileCapture2SDK-Swift.h"
+}

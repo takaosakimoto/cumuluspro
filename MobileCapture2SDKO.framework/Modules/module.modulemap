@@ -1,0 +1,6 @@
+framework module MobileCapture2SDKO {
+  umbrella header "MobileCapture2SDKO.h"
+
+  export *
+  module * { export * }
+}
